@@ -60,6 +60,10 @@ Lastly, we want to express our support and celebration for the launch of the GF1
 
 # LICENSE
 Until further license updates all rights are reserved (for each licensee).
+Copyright 2019-2024 Museo Do Videoxogo de Galicia (MUVI)
+
+Please attribute the copyright on your projects in written attribution and add a thank you note on Instagram (@museodovideoxogo) and X (@MuseoVideoxogo),
+thank you all for your collaboration.
 
 You will need to contact us as an organization to obtain the CAD/CAM/Firmware/HDL master files.
 
